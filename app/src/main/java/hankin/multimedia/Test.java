@@ -1,7 +1,9 @@
 package hankin.multimedia;
 
+import android.graphics.SumPathEffect;
 import android.util.Base64;
 
+import java.net.SocketException;
 import java.security.Security;
 import java.util.ArrayList;
 
@@ -17,7 +19,9 @@ public class Test {
 
     public String name = "hehe";
     public Base64 b;
+    public SumPathEffect sdfe;
     public int num = 20;
+    public SocketException e;
     public Security s;
     public ArrayList<String> list = new ArrayList<>();
 
