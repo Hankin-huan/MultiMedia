@@ -21,8 +21,10 @@ public class Test {
     public Base64 b;
     public String dae ;
     public SumPathEffect sdfe;
+    public MessageDigest m;
     public int num = 20;
     public SocketException e;
+    public PathEffect p;
     public Security s;
     public ArrayList<String> list = new ArrayList<>();
 
