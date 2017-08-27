@@ -19,6 +19,7 @@ public class Test {
 
     public String name = "hehe";
     public Base64 b;
+    public String dae ;
     public SumPathEffect sdfe;
     public int num = 20;
     public SocketException e;
