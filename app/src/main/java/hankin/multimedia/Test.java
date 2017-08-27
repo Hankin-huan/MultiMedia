@@ -1,8 +1,5 @@
 package hankin.multimedia;
 
-import android.util.Base64;
-
-import java.security.Security;
 import java.util.ArrayList;
 
 import java.util.HashMap;
@@ -16,9 +13,7 @@ import java.util.HashMap;
 public class Test {
 
     public String name = "hehe";
-    public Base64 base64;
     public int num = 20;
-    public Security s;
     public ArrayList<String> list = new ArrayList<>();
 
 
