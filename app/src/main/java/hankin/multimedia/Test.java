@@ -1,6 +1,7 @@
 package hankin.multimedia;
 
 import java.util.ArrayList;
+import java.util.Hashtable;
 import java.util.Vector;
 
 import java.util.HashMap;
@@ -14,7 +15,9 @@ import java.util.HashMap;
 public class Test {
 
     public String name = "hehe";
+    public Hashtable<String, String> table = null;
     public int num = 20;
+    public double df;
     public ArrayList<String> list = new ArrayList<>();
     public Vector<Integer> vec ;
 
