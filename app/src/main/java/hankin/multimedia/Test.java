@@ -7,4 +7,9 @@ package hankin.multimedia;
  */
 
 public class Test {
+
+    public String aa;
+    public int sdf;
+    public float sd;
+
 }
