@@ -1,9 +1,11 @@
 package hankin.multimedia;
 
+import android.graphics.PathEffect;
 import android.graphics.SumPathEffect;
 import android.util.Base64;
 
 import java.net.SocketException;
+import java.security.MessageDigest;
 import java.security.Security;
 import java.util.ArrayList;
 
