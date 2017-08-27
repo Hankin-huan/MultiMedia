@@ -1,7 +1,9 @@
 package hankin.multimedia;
 
+import android.graphics.PathEffect;
 import android.util.Base64;
 
+import java.security.MessageDigest;
 import java.security.Security;
 import java.util.ArrayList;
 
@@ -17,7 +19,9 @@ public class Test {
 
     public String name = "hehe";
     public Base64 b;
+    public MessageDigest m;
     public int num = 20;
+    public PathEffect p;
     public Security s;
     public ArrayList<String> list = new ArrayList<>();
 
