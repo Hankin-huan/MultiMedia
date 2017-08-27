@@ -1,5 +1,7 @@
 package hankin.multimedia;
 
+import java.util.ArrayList;
+
 /**
  * Created by Hankin on 2017/8/27.
  *
@@ -11,5 +13,6 @@ public class Test {
     public String aa;
     public int sdf;
     public float sd;
+    public ArrayList<String> ls;
 
 }
